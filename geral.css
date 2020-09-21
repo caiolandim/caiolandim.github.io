@@ -1,0 +1,28 @@
+body {
+	background: #191970;
+	color:white;
+}
+a {
+	color: red;
+}
+
+
+h1 {
+	text-align:center;
+}
+
+p {
+	font-size=10px;
+}
+
+.geral {
+	text-align:justify;
+}
+
+.center {
+	text-align:center;
+}
+
+.divfooter {
+	size:5px;
+}
